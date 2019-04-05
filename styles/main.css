@@ -28,6 +28,7 @@
     background-size: cover;
     background-attachment: fixed;
     filter: blur(4px);
+}
 .img-main {
     display: block;
     max-width: 100%;
